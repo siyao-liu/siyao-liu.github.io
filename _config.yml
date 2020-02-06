@@ -4,14 +4,14 @@
 title: Siyao Liu
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: PhD student at University of North Carolina, Chapel Hill
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+#url: "https://siyao-liu.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -21,10 +21,12 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Projects:
+    - Clustering Single Cell RNA-seq Data: 
+    - Genetic Mapping: 
+  Publication: 
+  Reading:
+  CV:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
