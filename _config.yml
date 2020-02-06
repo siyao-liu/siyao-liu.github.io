@@ -61,7 +61,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Siyao Liu
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -74,7 +74,7 @@ social-network-links:
   github: siyao-liu
   twitter: claresyliu
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/siyao-liu-4aa06623/
+  linkedin: "https://www.linkedin.com/in/siyao-liu-4aa06623/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
