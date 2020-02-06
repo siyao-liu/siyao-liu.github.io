@@ -20,10 +20,11 @@ description: PhD student at University of North Carolina, Chapel Hill
 
 # List of links in the navigation bar
 navbar-links:
+  About:
   Projects:
     - Clustering Single Cell RNA-seq Data: 
     - Genetic Mapping: 
-  Publication: 
+  Publications:
   Reading:
   CV:
 
