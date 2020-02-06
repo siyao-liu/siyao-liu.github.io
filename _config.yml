@@ -20,7 +20,6 @@ description: PhD student at University of North Carolina, Chapel Hill
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Projects:
     - Clustering Single Cell RNA-seq Data: 
     - Genetic Mapping: 
@@ -70,7 +69,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "siyao@email.unc.edu"
   facebook: deanattali
   github: daattali
   twitter: daattali
