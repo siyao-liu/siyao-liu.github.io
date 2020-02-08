@@ -22,7 +22,7 @@ description: PhD student at University of North Carolina, Chapel Hill
 navbar-links:
   About:
   Projects:
-    - Clustering Single Cell RNA-seq Data: 
+    - Clustering Single Cell RNA-seq Data: "SingleCell"
     - Genetic Mapping: 
   Publications:
   Reading:
