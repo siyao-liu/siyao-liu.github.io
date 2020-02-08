@@ -20,7 +20,7 @@ description: PhD student at University of North Carolina, Chapel Hill
 
 # List of links in the navigation bar
 navbar-links:
-  About:
+  About: "About"
   Projects:
     - Single Cell RNA-seq Data Analysis: "SingleCell"
     - Genetic Mapping & QTL Mapping: "Mapping"
