@@ -24,7 +24,7 @@ navbar-links:
   Projects:
     - Single Cell RNA-seq Data Analysis: "SingleCell"
     - Genetic Mapping & QTL Mapping: "Mapping"
-  Publications:
+  Publications: "Publications"
   Reading:
   CV: "/img/Siyao_Liu_Full_CV_Sp2020.pdf"
 
