@@ -22,8 +22,8 @@ description: PhD student at University of North Carolina, Chapel Hill
 navbar-links:
   About:
   Projects:
-    - Clustering Single Cell RNA-seq Data: "SingleCell"
-    - Genetic Mapping: 
+    - Single Cell RNA-seq Data Analysis: "SingleCell"
+    - Genetic Mapping & QTL Mapping: 
   Publications:
   Reading:
   CV: "/img/Siyao_Liu_Full_CV_Sp2020.pdf"
