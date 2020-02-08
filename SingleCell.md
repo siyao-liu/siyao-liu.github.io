@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Single Cell RNA-seq Data Analysis
+title: <font size="25">Single Cell RNA-seq Data Analysis</font>
 #subtitle: 
 ---
 
